@@ -1,3 +1,8 @@
+##
+## Kleiner Bugfix: Um das Programm zu starten, bitte eine IDE (z.B. Visual Studio Code) benutzen und den Ordner in der IDE öffnen und dann diese Datei in der IDE starten. Sonst findet Python die Bilder nicht.
+## Entschuldigen Sie die Unannehmlichkeiten
+##
+
 import pygame as p
 import ChessEngine
 
